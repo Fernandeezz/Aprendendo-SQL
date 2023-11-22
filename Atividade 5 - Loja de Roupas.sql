@@ -106,21 +106,21 @@ INSERT INTO Producao VALUES (02, 02, 02, 02, "2023-04-26", "Em Andamento");
 /*---------------------------------SELECT ATIVIDADE 06-------------------------------------------*/
 
 /* Select simples */
-SELECT * FROM Setor;-
+SELECT * FROM Setor;
 
-SELECT * FROM Funcionario;-
+SELECT * FROM Funcionario;
 
-SELECT * FROM Pagamento;-
+SELECT * FROM Pagamento;
 
 SELECT * FROM tipo_costura;
 
-SELECT * FROM Maquinario;-
+SELECT * FROM Maquinario;
 
-SELECT * FROM Roupa;-
+SELECT * FROM Roupa;
 
 SELECT * FROM item_pagamento;
 
-SELECT * FROM Producao;-
+SELECT * FROM Producao;
 
 
 /* Select inner join */
